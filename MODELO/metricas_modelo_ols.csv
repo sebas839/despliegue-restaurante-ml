@@ -1,0 +1,2 @@
+Modelo,Optimizacion,Tipo_Backtesting,RMSE,MAE,R2
+OLS_Linear_Regression,Ninguna,Sin Backtesting,795022.204611808,643961.4120421921,0.9552192383408975
